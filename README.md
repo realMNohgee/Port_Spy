@@ -1,4 +1,5 @@
 # Port_Spy
+![CI](https://github.com/realMNohgee/Port_Spy/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 Local port scanner. See what's listening where, mapped to PIDs and process names. Zero dependencies — Python stdlib only.
 
