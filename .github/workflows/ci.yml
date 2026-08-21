@@ -9,6 +9,6 @@ jobs:
         with:
           python-version: '3.9'
       - name: Compile check
-        run: python3 -m py_compile Port_Spy.py
+        run: python3 -m py_compile port_spy.py
       - name: Smoke test (--help)
-        run: python3 Port_Spy.py --help
+        run: python3 port_spy.py --help
